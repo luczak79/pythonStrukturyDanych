@@ -5,9 +5,6 @@
 
 krotka = ('x', 'y', 'h', 'w')
 
-krotkaString = krotka
-print(krotkaString)
-
 print("".join(krotka))
 print(" ".join(krotka))
 print(",".join(krotka))
