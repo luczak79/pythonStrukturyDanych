@@ -21,3 +21,6 @@ del test_list[5::2]
 print(test_list)
 
 print(sum(test_list)/len(test_list))
+
+
+
